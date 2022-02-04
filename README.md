@@ -1,0 +1,2 @@
+# LearningPython
+Учим питончик)
